@@ -93,7 +93,7 @@ _For this script to run you need to install python3.
    git clone https://github.com/sirmelonchen/HackITM2025
    ```
 
-2. Install NPM packages
+2. Install Python packages
 
    ```sh
    pip install -r requirements.txt
