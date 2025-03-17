@@ -35,7 +35,6 @@
     <br />
     <a href="https://github.com/sirmelonchen/HackITM2025/"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
     &middot;
     <a href="https://github.com/sirmelonchen/HackITM2025/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
