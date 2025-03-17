@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/sirmelonchen/HackITM2025/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/sirmelonchen/HackITM2025">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -164,16 +164,16 @@ Project Link: [https://github.com/sirmelonchen/HackITM2025](https://github.com/s
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/sirmelonchen/HackITM2025.svg?style=for-the-badge
 [contributors-url]: https://github.com/sirmelonchen/HackITM2025/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/sirmelonchen/HackITM2025.svg?style=for-the-badge
 [forks-url]: https://github.com/sirmelonchen/HackITM2025/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/sirmelonchen/HackITM2025.svg?style=for-the-badge
+[stars-url]: https://github.com/sirmelonchen/HackITM2025/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sirmelonchen/HackITM2025.svg?style=for-the-badge
 [issues-url]: https://github.com/sirmelonchen/HackITM2025/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/sirmelonchen/HackITM2025.svg?style=for-the-badge
+[license-url]: https://github.com/sirmelonchen/HackITM2025/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
