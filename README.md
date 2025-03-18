@@ -85,7 +85,7 @@ With the help of AI models such as Real-ESRGAN, old TV recordings are automatica
 
 ### Prerequisites
 
-\_For this script to run you need to install python3.
+\_For this script to run you need to install python3.\_
 
 - Python:
   Version: [3.11.0](https://www.python.org/downloads/release/python-3110/)
