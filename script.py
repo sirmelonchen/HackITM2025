@@ -31,7 +31,7 @@ frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
 
 # Output-Video vorbereiten
-out = cv2.VideoWriter("enhanced_video.mkv",
+out = cv2.VideoWriter("output/enhanced_video.mkv",
     cv2.VideoWriter_fourcc(*'h264'),
     fps,
     (frame_width * 2, frame_height * 2))  # 2x Upscaling
