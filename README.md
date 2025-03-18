@@ -1,5 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/sirmelonchen/HackITM2025/pull/73 -->
+
 <a id="readme-top"></a>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -16,6 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
@@ -69,6 +72,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 With the help of AI models such as Real-ESRGAN, old TV recordings are automatically enhanced and scaled to higher resolutions, e.g. from SD to HD or 4K. The process uses a powerful GPU to process images and videos in real time or near real time. This makes it possible, for example, to reuse historical material for modern broadcasts or archive projects in impressive quality.
@@ -76,16 +80,17 @@ With the help of AI models such as Real-ESRGAN, old TV recordings are automatica
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Prerequisites
 
-_For this script to run you need to install python3.
+\_For this script to run you need to install python3.
 
-* Python:
-    Version: [3.11.0](https://www.python.org/downloads/release/python-3110/)
-* AI-Model
-    [RealESRGAN_x4plus](https://github.com/El-Srogey/REAL-ESRGAN/blob/main/RealESRGAN_x4plus.pth)
+- Python:
+  Version: [3.11.0](https://www.python.org/downloads/release/python-3110/)
+- AI-Model
+  [RealESRGAN_x4plus](https://github.com/El-Srogey/REAL-ESRGAN/blob/main/RealESRGAN_x4plus.pth)
 
 ### Installation
 
@@ -112,26 +117,28 @@ _For this script to run you need to install python3.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 You could use the program to upscale old image material (still without sound) without loss. This could be useful for TV studios or influencers.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
-* [ ] Add Changelog
-* [x] Add back to top links
-* [ ] Add Additional Templates w/ Examples
-* [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
 
 See the [open issues](https://github.com/sirmelonchen/HackITM2025/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -145,8 +152,8 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
@@ -154,6 +161,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
 ## Contact
 
 Your Name - [@sirmelonchen](https://github.com/sirmelonchen)
@@ -162,9 +170,9 @@ Project Link: [https://github.com/sirmelonchen/HackITM2025](https://github.com/s
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/sirmelonchen/HackITM2025.svg?style=for-the-badge
 [contributors-url]: https://github.com/sirmelonchen/HackITM2025/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sirmelonchen/HackITM2025.svg?style=for-the-badge
