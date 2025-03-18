@@ -39,9 +39,9 @@
     <a href="https://github.com/sirmelonchen/HackITM2025/"><strong>Explore the docs »</strong></a>
     <br />
     &middot;
-    <a href="https://github.com/sirmelonchen/HackITM2025/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/sirmelonchen/HackITM2025/issues/new?template=bug_report.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/sirmelonchen/HackITM2025/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/sirmelonchen/HackITM2025/issues/new?template=feature_request.md">Request Feature</a>
   </p>
 </div>
 
