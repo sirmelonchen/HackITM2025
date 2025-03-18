@@ -84,6 +84,8 @@ _For this script to run you need to install python3.
 
 * Python:
     Version: [3.11.0](https://www.python.org/downloads/release/python-3110/)
+* AI-Model
+    [RealESRGAN_x4plus](https://github.com/El-Srogey/REAL-ESRGAN/blob/main/RealESRGAN_x4plus.pth)
 
 ### Installation
 
